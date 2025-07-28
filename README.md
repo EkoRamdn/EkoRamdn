@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="240" src="img/fox.gif"  style="margin-left: 20px;"/>
+<img align="right" width="200" src="img/fox.gif"  style="margin-left: 20px;"/>
 
 ### `Hello` I'm Ked.
 
