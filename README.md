@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ekoramadn&color=00a0a0&style=plastic)
 
-My username is @ked:
+My username is @ked-cr:
 
 ```
 Embrace your dreams, and no matter what happens protect your honor... in LIFE
