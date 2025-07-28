@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="219" src="img/fox.gif"  style="margin-left: 20px;"/>
+<img align="right" width="240" src="img/fox.gif"  style="margin-left: 20px;"/>
 
 ### `Hello` I'm Ked.
 
@@ -11,6 +11,7 @@ My username is @ked:
 ```
 Embrace your dreams, and no matter what happens protect your honor... in LIFE
 ```
+<div style="clear: both;"></div>
 
 ---
 
